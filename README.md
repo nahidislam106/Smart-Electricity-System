@@ -14,11 +14,10 @@ The project features a sleek, modern Python-based dashboard that visualizes live
 Here is how the monitoring dashboard looks during normal operation and when power theft is detected:
 
 ### System Normal
-![System Normal - No Theft Detected](ScreenShot/WhatsApp Image 2026-03-09 at 9.20.07 PM.jpeg)
+![System Normal - No Theft Detected](ScreenShot/not_detected.jpeg)
 
 ### Power Theft Detected
-![Power Theft Detected](ScreenShot/WhatsApp Image 2026-03-09 at 9.20.07 PM(1).jpeg) 
-
+![Power Theft Detected](ScreenShot/detected.jpeg)
 *(Note: Ensure actual screenshot file names match the paths above)*
 
 ---
