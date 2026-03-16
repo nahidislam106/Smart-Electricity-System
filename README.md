@@ -18,7 +18,7 @@ Here is how the monitoring dashboard looks during normal operation and when powe
 
 ### Power Theft Detected
 ![Power Theft Detected](ScreenShot/detected.jpeg)
-*(Note: Ensure actual screenshot file names match the paths above)*
+
 
 ---
 
